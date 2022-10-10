@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TolulopeOdebode
-- 👀 I’m interested in PLCs, Automation. HMI, Instrumentation 
+- 👀 I’m interested in PLCs, Automation. HMI, Instrumentation, Back end and Front End Engineering 
 - 🌱 I’m currently learning Ladder Logic, HTML, CSS, & C (via ALX SE Program)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. odebodetolulopetosin@gmail.com
